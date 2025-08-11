@@ -1,0 +1,181 @@
+llm,tone,topic,openness,conscientiousness,extraversion,agreeableness,neuroticism
+gpt 4-o,friendly,coffee-brewing,4,4,5,5,1
+gpt 4-o,friendly,coffee-brewing,4,4,5,5,1
+gpt 4-o,friendly,coffee-brewing,5,5,4,5,1
+gpt 4-o,friendly,coffee-brewing,4,5,4,5,1
+gpt 4-o,friendly,coffee-brewing,4,4,4,5,1
+gpt 4-o,formal,coffee-brewing,4,4,4,5,1
+gpt 4-o,formal,coffee-brewing,4,5,4,5,1
+gpt 4-o,formal,coffee-brewing,4,5,4,5,1
+gpt 4-o,formal,coffee-brewing,5,5,4,5,1
+gpt 4-o,formal,coffee-brewing,4,5,4,5,1
+gpt 4-o,passive-aggressive,coffee-brewing,4,4,4,5,1
+gpt 4-o,passive-aggressive,coffee-brewing,3,3,3,4,2
+gpt 4-o,passive-aggressive,coffee-brewing,3,4,3,4,2
+gpt 4-o,passive-aggressive,coffee-brewing,3,4,3,4,2
+gpt 4-o,passive-aggressive,coffee-brewing,3,4,3,4,2
+gpt 4-o,critical,coffee-brewing,4,4,4,5,1
+gpt 4-o,critical,coffee-brewing,4,3,3,5,1
+gpt 4-o,critical,coffee-brewing,3,3,3,5,1
+gpt 4-o,critical,coffee-brewing,3,4,3,4,2
+gpt 4-o,critical,coffee-brewing,3,3,3,4,1
+gemini 2.5 flash,friendly,coffee-brewing,5,5,5,5,1
+gemini 2.5 flash,friendly,coffee-brewing,5,5,5,5,1
+gemini 2.5 flash,friendly,coffee-brewing,4,5,4,5,1
+gemini 2.5 flash,friendly,coffee-brewing,4,5,4,5,1
+gemini 2.5 flash,friendly,coffee-brewing,4,4,4,5,1
+gemini 2.5 flash,formal,coffee-brewing,4,4,4,5,1
+gemini 2.5 flash,formal,coffee-brewing,4,5,4,5,1
+gemini 2.5 flash,formal,coffee-brewing,4,5,4,5,1
+gemini 2.5 flash,formal,coffee-brewing,5,5,4,5,1
+gemini 2.5 flash,formal,coffee-brewing,4,5,4,5,1
+gemini 2.5 flash,passive-aggressive,coffee-brewing,4,4,4,5,1
+gemini 2.5 flash,passive-aggressive,coffee-brewing,3,3,3,4,2
+gemini 2.5 flash,passive-aggressive,coffee-brewing,3,4,3,4,2
+gemini 2.5 flash,passive-aggressive,coffee-brewing,3,4,3,4,2
+gemini 2.5 flash,passive-aggressive,coffee-brewing,3,4,3,4,2
+gemini 2.5 flash,critical,coffee-brewing,3,4,3,4,2
+gemini 2.5 flash,critical,coffee-brewing,4,3,3,5,1
+gemini 2.5 flash,critical,coffee-brewing,3,3,3,5,1
+gemini 2.5 flash,critical,coffee-brewing,3,4,3,4,2
+gemini 2.5 flash,critical,coffee-brewing,3,3,3,4,1
+claude sonnet 4,friendly,coffee-brewing,4,5,4,5,1
+claude sonnet 4,friendly,coffee-brewing,4,4,4,5,1
+claude sonnet 4,friendly,coffee-brewing,3,5,4,5,1
+claude sonnet 4,friendly,coffee-brewing,3,4,4,5,1
+claude sonnet 4,friendly,coffee-brewing,4,4,4,5,1
+claude sonnet 4,formal,coffee-brewing,4,5,3,4,1
+claude sonnet 4,formal,coffee-brewing,4,5,3,4,1
+claude sonnet 4,formal,coffee-brewing,4,5,4,4,1
+claude sonnet 4,formal,coffee-brewing,4,5,3,4,1
+claude sonnet 4,formal,coffee-brewing,4,5,3,4,1
+claude sonnet 4,passive-aggressive,coffee-brewing,3,3,4,5,1
+claude sonnet 4,passive-aggressive,coffee-brewing,3,3,4,5,1
+claude sonnet 4,passive-aggressive,coffee-brewing,3,3,4,5,1
+claude sonnet 4,passive-aggressive,coffee-brewing,2,3,4,5,1
+claude sonnet 4,passive-aggressive,coffee-brewing,3,4,4,4,1
+claude sonnet 4,critical,coffee-brewing,2,2,4,5,1
+claude sonnet 4,critical,coffee-brewing,2,2,4,5,1
+claude sonnet 4,critical,coffee-brewing,3,3,4,4,1
+claude sonnet 4,critical,coffee-brewing,2,2,4,5,1
+claude sonnet 4,critical,coffee-brewing,2,2,4,5,1
+gpt 4-o,friendly,Rest API dev,5,5,5,5,1
+gpt 4-o,friendly,Rest API dev,4,4,5,5,1
+gpt 4-o,friendly,Rest API dev,4,5,5,4,1
+gpt 4-o,friendly,Rest API dev,5,4,5,5,1
+gpt 4-o,friendly,Rest API dev,5,4,5,4,1
+gpt 4-o,formal,Rest API dev,4,5,4,4,1
+gpt 4-o,formal,Rest API dev,5,5,4,4,1
+gpt 4-o,formal,Rest API dev,4,5,4,4,1
+gpt 4-o,formal,Rest API dev,4,4,4,4,1
+gpt 4-o,formal,Rest API dev,5,4,5,4,1
+gpt 4-o,passive-aggressive,Rest API dev,5,4,5,5,1
+gpt 4-o,passive-aggressive,Rest API dev,4,4,5,5,1
+gpt 4-o,passive-aggressive,Rest API dev,4,4,5,5,1
+gpt 4-o,passive-aggressive,Rest API dev,5,4,5,5,1
+gpt 4-o,passive-aggressive,Rest API dev,5,4,5,5,1
+gpt 4-o,critical,Rest API dev,4,5,4,5,1
+gpt 4-o,critical,Rest API dev,4,4,4,4,1
+gpt 4-o,critical,Rest API dev,4,5,4,4,1
+gpt 4-o,critical,Rest API dev,4,4,5,4,1
+gpt 4-o,critical,Rest API dev,4,4,5,4,1
+gemini 2.5 flash,friendly,Rest API dev,5,5,4,5,1
+gemini 2.5 flash,friendly,Rest API dev,4,5,4,5,1
+gemini 2.5 flash,friendly,Rest API dev,4,5,3,4,1
+gemini 2.5 flash,friendly,Rest API dev,4,5,4,5,2
+gemini 2.5 flash,friendly,Rest API dev,5,5,4,4,1
+gemini 2.5 flash,formal,Rest API dev,4,5,2,4,1
+gemini 2.5 flash,formal,Rest API dev,4,5,2,4,1
+gemini 2.5 flash,formal,Rest API dev,4,5,2,4,1
+gemini 2.5 flash,formal,Rest API dev,4,5,3,4,1
+gemini 2.5 flash,formal,Rest API dev,4,5,3,4,1
+gemini 2.5 flash,passive-aggressive,Rest API dev,4,4,3,4,1
+gemini 2.5 flash,passive-aggressive,Rest API dev,4,4,3,4,1
+gemini 2.5 flash,passive-aggressive,Rest API dev,4,4,3,4,1
+gemini 2.5 flash,passive-aggressive,Rest API dev,4,4,4,4,1
+gemini 2.5 flash,passive-aggressive,Rest API dev,4,4,4,4,1
+gemini 2.5 flash,critical,Rest API dev,4,5,3,5,1
+gemini 2.5 flash,critical,Rest API dev,4,5,3,4,1
+gemini 2.5 flash,critical,Rest API dev,4,5,3,4,1
+gemini 2.5 flash,critical,Rest API dev,4,5,3,4,1
+gemini 2.5 flash,critical,Rest API dev,4,5,3,4,1
+claude sonnet 4,friendly,Rest API dev,4,5,5,4,2
+claude sonnet 4,friendly,Rest API dev,4,5,4,5,2
+claude sonnet 4,friendly,Rest API dev,4,5,4,4,2
+claude sonnet 4,friendly,Rest API dev,4,4,4,5,2
+claude sonnet 4,friendly,Rest API dev,5,4,5,4,2
+claude sonnet 4,formal,Rest API dev,3,5,2,3,1
+claude sonnet 4,formal,Rest API dev,3,5,2,3,1
+claude sonnet 4,formal,Rest API dev,3,5,2,3,1
+claude sonnet 4,formal,Rest API dev,3,5,2,3,1
+claude sonnet 4,formal,Rest API dev,3,5,2,3,1
+claude sonnet 4,passive-aggressive,Rest API dev,4,4,4,5,3
+claude sonnet 4,passive-aggressive,Rest API dev,4,4,4,5,2
+claude sonnet 4,passive-aggressive,Rest API dev,4,4,5,4,4
+claude sonnet 4,passive-aggressive,Rest API dev,4,4,5,4,3
+claude sonnet 4,passive-aggressive,Rest API dev,4,4,5,4,3
+claude sonnet 4,critical,Rest API dev,4,5,3,5,2
+claude sonnet 4,critical,Rest API dev,4,5,3,5,2
+claude sonnet 4,critical,Rest API dev,4,5,3,5,2
+claude sonnet 4,critical,Rest API dev,4,5,3,4,2
+claude sonnet 4,critical,Rest API dev,4,5,3,5,2
+gpt 4-o,friendly,The Ethics of AI in Warfare,5,5,5,4,1
+gpt 4-o,friendly,The Ethics of AI in Warfare,4,5,4,4,1
+gpt 4-o,friendly,The Ethics of AI in Warfare,5,4,5,5,1
+gpt 4-o,friendly,The Ethics of AI in Warfare,4,5,4,4,1
+gpt 4-o,friendly,The Ethics of AI in Warfare,5,4,5,4,1
+gpt 4-o,formal,The Ethics of AI in Warfare,3,5,2,3,1
+gpt 4-o,formal,The Ethics of AI in Warfare,3,5,2,3,1
+gpt 4-o,formal,The Ethics of AI in Warfare,3,5,2,3,1
+gpt 4-o,formal,The Ethics of AI in Warfare,3,5,2,3,1
+gpt 4-o,formal,The Ethics of AI in Warfare,3,5,2,3,1
+gpt 4-o,passive-aggressive,The Ethics of AI in Warfare,4,4,4,3,2
+gpt 4-o,passive-aggressive,The Ethics of AI in Warfare,3,4,4,3,2
+gpt 4-o,passive-aggressive,The Ethics of AI in Warfare,4,4,3,4,2
+gpt 4-o,passive-aggressive,The Ethics of AI in Warfare,4,5,4,3,2
+gpt 4-o,passive-aggressive,The Ethics of AI in Warfare,4,4,4,2,3
+gpt 4-o,critical,The Ethics of AI in Warfare,5,4,4,2,3
+gpt 4-o,critical,The Ethics of AI in Warfare,5,4,4,2,3
+gpt 4-o,critical,The Ethics of AI in Warfare,4,5,3,2,2
+gpt 4-o,critical,The Ethics of AI in Warfare,5,5,3,4,1
+gpt 4-o,critical,The Ethics of AI in Warfare,5,4,4,1,4
+gemini 2.5 flash,friendly,The Ethics of AI in Warfare,5,5,4,4,2
+gemini 2.5 flash,friendly,The Ethics of AI in Warfare,5,5,4,4,2
+gemini 2.5 flash,friendly,The Ethics of AI in Warfare,5,5,4,5,1
+gemini 2.5 flash,friendly,The Ethics of AI in Warfare,5,5,4,4,2
+gemini 2.5 flash,friendly,The Ethics of AI in Warfare,5,5,3,4,2
+gemini 2.5 flash,formal,The Ethics of AI in Warfare,5,5,3,4,2
+gemini 2.5 flash,formal,The Ethics of AI in Warfare,5,5,3,4,2
+gemini 2.5 flash,formal,The Ethics of AI in Warfare,5,5,3,4,2
+gemini 2.5 flash,formal,The Ethics of AI in Warfare,5,5,3,4,2
+gemini 2.5 flash,formal,The Ethics of AI in Warfare,5,5,3,4,2
+gemini 2.5 flash,passive-aggressive,The Ethics of AI in Warfare,3,5,2,4,3
+gemini 2.5 flash,passive-aggressive,The Ethics of AI in Warfare,4,5,3,4,2
+gemini 2.5 flash,passive-aggressive,The Ethics of AI in Warfare,5,5,3,4,2
+gemini 2.5 flash,passive-aggressive,The Ethics of AI in Warfare,4,5,3,4,2
+gemini 2.5 flash,passive-aggressive,The Ethics of AI in Warfare,4,4,3,5,1
+gemini 2.5 flash,critical,The Ethics of AI in Warfare,5,5,3,5,1
+gemini 2.5 flash,critical,The Ethics of AI in Warfare,5,5,3,5,1
+gemini 2.5 flash,critical,The Ethics of AI in Warfare,5,5,3,5,1
+gemini 2.5 flash,critical,The Ethics of AI in Warfare,5,5,3,5,1
+gemini 2.5 flash,critical,The Ethics of AI in Warfare,5,5,3,5,1
+claude sonnet 4,friendly,The Ethics of AI in Warfare,4,5,3,4,2
+claude sonnet 4,friendly,The Ethics of AI in Warfare,4,4,4,4,2
+claude sonnet 4,friendly,The Ethics of AI in Warfare,5,4,5,4,2
+claude sonnet 4,friendly,The Ethics of AI in Warfare,4,4,4,4,2
+claude sonnet 4,friendly,The Ethics of AI in Warfare,5,4,5,4,2
+claude sonnet 4,formal,The Ethics of AI in Warfare,4,5,2,3,1
+claude sonnet 4,formal,The Ethics of AI in Warfare,4,5,2,3,1
+claude sonnet 4,formal,The Ethics of AI in Warfare,4,5,2,3,1
+claude sonnet 4,formal,The Ethics of AI in Warfare,4,5,2,3,1
+claude sonnet 4,formal,The Ethics of AI in Warfare,4,5,2,3,1
+claude sonnet 4,passive-aggressive,The Ethics of AI in Warfare,3,4,4,2,3
+claude sonnet 4,passive-aggressive,The Ethics of AI in Warfare,3,4,4,2,3
+claude sonnet 4,passive-aggressive,The Ethics of AI in Warfare,3,4,4,2,4
+claude sonnet 4,passive-aggressive,The Ethics of AI in Warfare,4,4,4,2,3
+claude sonnet 4,passive-aggressive,The Ethics of AI in Warfare,3,3,4,2,4
+claude sonnet 4,critical,The Ethics of AI in Warfare,4,3,5,1,4
+claude sonnet 4,critical,The Ethics of AI in Warfare,4,4,5,1,4
+claude sonnet 4,critical,The Ethics of AI in Warfare,4,4,5,1,4
+claude sonnet 4,critical,The Ethics of AI in Warfare,5,4,4,2,3
+claude sonnet 4,critical,The Ethics of AI in Warfare,4,3,5,1,5
